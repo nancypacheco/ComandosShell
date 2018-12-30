@@ -1,7 +1,7 @@
 #!bin/bash
 #Comandos en shell
 #Curso IFCD0111
-#Nancy Pacheco
+#nombreUsuario
 
 echo "vamos a listar los ficheros de un directorio"
 ls -la
