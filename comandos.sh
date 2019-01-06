@@ -24,7 +24,7 @@ ifconfig
 echo "*****************************************************"
 echo "vamos a ver la ocupaciòn del disco y su memoria ran"
 df -h
-echo "******************************************************"
+echo "*******************************************************"
 echo "Estos son los datos del CPU."
 cat /proc/cpuinfo
 echo "para saber si tienes instalado el servidor apache"
