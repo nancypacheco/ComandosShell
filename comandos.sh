@@ -2,6 +2,8 @@
 #Comandos en shell
 #Curso IFCD0111
 #nombreUsuario
+
+
 echo "vamos a conocer nuestra ubicaciòn"
 pwd
 echo "***********************************"
