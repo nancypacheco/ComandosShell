@@ -1,4 +1,4 @@
-#!bin/bash
+#bin/bash
 #Comandos en shell
 #Curso IFCD0111
 #nombreUsuario
